@@ -7,6 +7,3 @@ Outside of code, I enjoy creating art, solving puzzles, and investing in persona
 ## 🌐 Socials:
 [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/mohamed_nasr_me) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/nasr7322) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mohamed.nasr.me) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mohamed-nasr-me) ![](https://komarev.com/ghpvc/?username=nasr7322)
 [![](https://visitcount.itsvg.in/api?id=nasr7322&icon=5&color=13)](https://visitcount.itsvg.in)
-
-- name: generate-snake-game-from-github-contribution-grid
-  uses: Platane/snk@v3.3.0
