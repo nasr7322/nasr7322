@@ -1,5 +1,7 @@
 # 💫 About Me:
-Hi there! 👋 I'm Mohamed Nasr, a Computer and Systems Engineering student at Alexandria University with a passion for software engineering, problem-solving, and creative coding. I enjoy building efficient solutions, exploring generative AI, and diving into projects that blend technology with art. <br><br>When I'm not coding, you'll find me designing, solving puzzles, or working on personal growth through fitness and learning. I'm always excited to collaborate and tackle challenging problems—feel free to connect!
+Hi there! 👋 I'm Mohamed Nasr, a Computer and Systems Engineering student at Alexandria University with a passion for software engineering, problem-solving, and creative coding. I love building efficient solutions, exploring generative AI, and working on projects that blend technology with design.
+
+Outside of code, I enjoy creating art, solving puzzles, and investing in personal growth through fitness and continuous learning. I'm always eager to collaborate and tackle meaningful challenges—feel free to connect!
 
 
 ## 🌐 Socials:
